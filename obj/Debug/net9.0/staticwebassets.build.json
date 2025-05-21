@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2k9TgvYr0lB9Maj3tYY6DZViajf3f+jHffMLgwITH1I=",
+  "Source": "PatientRecovery.MonitoringService",
+  "BasePath": "_content/PatientRecovery.MonitoringService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
